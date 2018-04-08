@@ -8,5 +8,6 @@ namespace test
 {
     class form2
     {
+        //form2
     }
 }
